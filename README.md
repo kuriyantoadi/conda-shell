@@ -11,14 +11,11 @@ Untuk menjalankan program coda-shell, pastikan directory pada terminal/konsole a
 ### Perintah conda-shell
 Terdapat 2 perintah Anaconda-shell yang dapat dijalankan.
 
-Untuk matikan mode Anaconda :
-<br>`conda-off`
-
-Untuk mengaktifkan mode Anaconda :
+Untuk mengaktifkan mode Anaconda dan menjalankan program Anaconda-Navigator :
 <br>`conda-on`
 
-Jika mode conda sudah aktif akan terdapat `(base)` di shell anda. Anda dapat menjalankan program Anaconda-Navigator dengan perintah:
-<br>`anaconda-navigator`
+Untuk matikan mode Anaconda :
+<br>`conda-off`
 
 ### Kontak Admin:
 kuryantoadi8@gmail.com
